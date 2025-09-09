@@ -1,8 +1,7 @@
 # odin-recipes
-# Proyek Odin Recipes
 # 9-September-2025
 
-    Hari ini saya membuat proyek yang bernama Odin Recipes
+Hari ini saya membuat proyek yang bernama Odin Recipes
 menggunakanbahasa HTML. Di dalam proyek tersebut saya menggunakan elemen-elemen HTML dasar yang telah dirangkum menjadi sebuah materi didalam The Odin Project yaitu:
 
 1. HTML Boilerplate
